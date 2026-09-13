@@ -5,7 +5,7 @@
 # Author:  Polina Lemenkova
 # ORCID:   https://orcid.org/0000-0002-5759-1089
 # Paper:   Lemenkova, P. (2021). Geomorphology of the Ninety East Ridge. Bulletin of Perm University. Geology / Vestnik Permskogo universiteta. Geologia, 20(3), 195-212. ISSN 1994-3601.
-# DOI:     https://doi.org/10.17072/psu.geol.20.3.195
+# DOI:     https://doi.org/10.5281/zenodo.5577923
 # License: MIT (see LICENSE)
 # -----------------------------------------------------------------------------
 # Purpose: shaded relief grid raster map from the GEBCO dataset (here: Ninety East Ridge, Indian Ocean)
