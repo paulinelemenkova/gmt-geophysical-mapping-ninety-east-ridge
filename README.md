@@ -10,7 +10,6 @@ Lemenkova, P. (2021). Geomorphology of the Ninety East Ridge. *Bulletin of Perm 
 
 - Published paper (DOI): https://doi.org/10.17072/psu.geol.20.3.195
 - Publisher (Perm University): http://geology-vestnik.psu.ru/index.php/geology/article/view/401
-- Archived code (Zenodo): https://doi.org/10.5281/zenodo.5577923
 - Preprint (HAL): https://hal.science/hal-03384973
 - Preprint (SSRN): https://ssrn.com/abstract=3945470
 - LifeScience.net: https://www.lifescience.net/publications/19427/geomorphology-of-the-ninety-east-ridge/
